@@ -1,0 +1,13 @@
+n_ini,18000
+i_ini,150
+min_d_late,2
+max_d_late,4
+p_d_e,0.2
+n_corr,25
+d_corr,70
+factor_contagio,0.9
+factor_muta,0.1
+max_d_e,6
+costo_d_e,0.1
+costo_f_e,0.91
+costo_muerte,1.1
